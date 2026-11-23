@@ -1,0 +1,21 @@
+name: tonga-benthic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - rioxarray
+  - geopandas>=0.14
+  - pyarrow
+  - h5netcdf
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - joblib
+  - dask
+  - pystac-client
+  - odc-stac
+  - jupyterlab
